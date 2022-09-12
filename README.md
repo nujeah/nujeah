@@ -1,4 +1,12 @@
-### Hi there 👋
+### HaeJun, 25years old, junior 👋
+
+Full name: Jeong HaeJun
+major : Industrial Engineering
+e-mail: gownsrkt11@gmail.com
+
+I'm junior in college and I'm currently preparing to start a startup. The office is located in Campus Town, Kyung Hee University
+I am interested in management, marketing, and branding, and I can handle C language, Python, and HTml a little bit.
+
 
 <!--
 **nujeah/nujeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
