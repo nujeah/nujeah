@@ -1,8 +1,8 @@
 ### HaeJun, 25years old, junior 👋
 
-Full name: Jeong HaeJun
-major : Industrial Engineering
-e-mail: gownsrkt11@gmail.com
+Full name: Jeong HaeJun  
+major : Industrial Engineering  
+e-mail: gownsrkt11@gmail.com  
 
 I'm junior in college and I'm currently preparing to start a startup. The office is located in Campus Town, Kyung Hee University
 I am interested in management, marketing, and branding, and I can handle C language, Python, and HTml a little bit.
